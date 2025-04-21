@@ -1,4 +1,4 @@
-package linkedlists;
+package collections.linkedlists;
 
 public class LinkedListBasics {
 }

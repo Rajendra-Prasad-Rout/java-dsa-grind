@@ -1,4 +1,4 @@
-package arraylists;
+package collections.arraylists;
 
 public class ArrayListBasics {
 }
