@@ -2,29 +2,6 @@ package arrays;
 
 import java.util.Arrays;
 
-/**
- * The {@code MaxMinArray} class demonstrates two methods to find
- * the maximum and minimum elements in an integer array:
- * <ul>
- *     <li>Using built-in Java methods</li>
- *     <li>Without using any built-in methods</li>
- * </ul>
- * <p>
- * This example showcases both approaches for educational purposes.
- * </p>
- *
- * Example usage:
- * <pre>
- * withBuiltInMethods:
- *     Largest element: 9
- *     Smallest element: 1
- * withoutBuiltInMethods:
- *     Largest element: 9
- *     Smallest element: 1
- * </pre>
- *
- * @author Rajendra
- */
 public class MaxMinArray {
 
     public static void main(String[] args) {

@@ -1,8 +1,5 @@
 package arrays;
 
-/**
- * Utility class for working with binary arrays.
- */
 public class MaxConsecutiveOnes {
 
     public static void main(String[] args) {

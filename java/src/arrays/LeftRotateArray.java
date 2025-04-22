@@ -2,9 +2,6 @@ package arrays;
 
 import java.util.Arrays;
 
-/**
- * Utility class for performing array rotations.
- */
 public class LeftRotateArray {
 
     public static void main(String[] args) {

@@ -18,8 +18,8 @@ package arrays;
 public class SumOfAllElements {
 
     public static void main(String[] args) {
-        int[] numbers = {1, 2, 3, 4, 5}; // Array of integers
-        int sum = 0; // Variable to store the sum
+        int[] numbers = {1, 2, 3, 4, 5};
+        int sum = 0;
 
         for (int num : numbers) {
             sum += num;
