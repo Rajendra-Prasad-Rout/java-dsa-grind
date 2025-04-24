@@ -1,16 +1,16 @@
 
-# <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" width="70" height="30"> Java DSA Grind <img src="https://img.shields.io/badge/Data%20Structures-orange?style=for-the-badge&logo=code&logoColor=white" alt="Data Structures" width="80" height="30"> <img src="https://img.shields.io/badge/Algorithms-blue?style=for-the-badge&logo=brain&logoColor=white" alt="Algorithms" width="80" height="30">
-
 ## 🚀 Level Up Your Java DSA Skills!
-
 
 Welcome to `java-dsa-grind`! This repository is your companion on the journey to mastering Data Structures and Algorithms (DSA) using the power of Java.
 
+> A clean, structured, and ever-growing collection of **Java-based DSA problems**. Built for clarity, grind, and long-term growth. 🧠🚀
+
+---
+
+# <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" width="70" height="30"> Java DSA Grind <img src="https://img.shields.io/badge/Data%20Structures-orange?style=for-the-badge&logo=code&logoColor=white" alt="Data Structures" width="100" height="30"> <img src="https://img.shields.io/badge/Algorithms-blue?style=for-the-badge&logo=brain&logoColor=white" alt="Algorithms" width="80" height="30">
 
 ![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Level%20Up-blue?style=for-the-badge)
-
-> A clean, structured, and ever-growing collection of **Java-based DSA problems**. Built for clarity, grind, and long-term growth. 🧠🚀
 
 ---
 
