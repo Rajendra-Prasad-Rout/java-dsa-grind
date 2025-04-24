@@ -214,7 +214,6 @@ public class CustomDynamicArray<T> {
         T removingElement = data[index];
         for (; index < dataCount - 1; index++) {
             data[index] = data[index + 1];
-
         }
         data[dataCount - 1] = null;
         dataCount--;
