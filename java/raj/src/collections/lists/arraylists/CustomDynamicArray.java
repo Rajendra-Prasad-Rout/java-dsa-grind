@@ -100,9 +100,9 @@ public class CustomDynamicArray<T> {
      * ({@code index < 0 || index > size()}).
      */
     public void add(int index, T obj) {
-        if (index < 0 || index > dataCount)
-            throw new IndexOutOfBoundsException(index);
-        if (size() == capacity()) grow();
+        checkIndex(index);
+        if (size() == capacity())
+            grow();
         for (int i = dataCount - 1; i >= index; i--) {
             data[i + 1] = data[i];
         }
